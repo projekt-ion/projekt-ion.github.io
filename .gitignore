@@ -21,3 +21,4 @@ hugo_modules/
 # Optional: Deployment Files
 .deploy/
 
+.hugo_build.lock
