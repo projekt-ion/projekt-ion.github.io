@@ -1,0 +1,30 @@
+baseURL = 'https://project-ion.github.io'
+defaultContentLanguageInSubdir = true
+title = 'Projekt Ion'
+theme = 'papermod'
+
+[params]
+description = "Eine einfache Hugo-Seite mit dem Ananke-Theme"
+showLanguageSwitcher = true
+
+[languages]
+
+[languages.de]
+languageName = "Deutsch"
+weight = 1
+title = "Projekt Ion"
+contentDir = "content/de"
+
+[languages.en]
+languageName = "English"
+weight = 2
+title = "Project Ion"
+contentDir = "content/en"
+
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 1
