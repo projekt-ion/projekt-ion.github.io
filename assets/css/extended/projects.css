@@ -1,0 +1,27 @@
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  background: var(--entry);
+  padding: 1rem;
+  border-radius: 0.75rem;
+  transition: background 0.2s;
+}
+
+.project-card:hover {
+  background: var(--entry-hover);
+}
+
+.project-thumb {
+  width: 100%;
+  border-radius: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.project-card h2 {
+  margin: 0.25rem 0;
+}

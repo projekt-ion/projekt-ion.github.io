@@ -6,6 +6,12 @@ theme = 'papermod'
 [params]
 description = "Eine einfache Hugo-Seite mit dem Ananke-Theme"
 showLanguageSwitcher = true
+homeInfoParams = false
+ShowReadingTime = false
+ShowBreadCrumbs = true
+ShowPostNavLinks = true
+mainSections = ["projects"]
+ShowPostThumbnail = true
 
 [languages]
 
@@ -21,10 +27,18 @@ weight = 2
 title = "Project Ion"
 contentDir = "content/en"
 
-
 [menu]
+[[menu.main]]
+identifier = "projects"
+name = "Projekte"
+url = "/projects/"
+weight = 1
+
 [[menu.main]]
 identifier = "about"
 name = "about"
 url = "/about/"
-weight = 1
+weight = 2
+
+[params.assets]
+css = ["css/extended/projects.css"]
