@@ -6,10 +6,10 @@ title: 'Arcade Machine'
 hideImage: false
 image: "thumbnail.jpg"
 showInList: true   # custom param
-description: "Testy testy"
+description: "DIY Arcade Automat"
 ---
 
-![Projektbeschreibung](thumbnail.jpg)
+![Projektbeschreibung](inthedark.jpeg)
 
 # Throwback – Wir bauen einen Retro-Videospielautomaten!
 
@@ -18,4 +18,4 @@ Der Workshop vermittelt den Umgang mit Holz, erklärt die Grundprinzipien der El
 
 # Ergebnisse
 
-Mehr [hier](./technic/)
+![Projektbeschreibung](kabel.jpeg)
