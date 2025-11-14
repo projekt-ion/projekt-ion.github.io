@@ -6,6 +6,7 @@ title: 'Arcade Machine'
 hideImage: false
 image: "thumbnail.jpg"
 showInList: true   # custom param
+description: "Testy testy"
 ---
 
 ![Projektbeschreibung](thumbnail.jpg)
