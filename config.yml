@@ -24,10 +24,14 @@ menu:
       name: "Projekte"
       url: "/projects/"
       weight: 1
+    - identifier: "upcoming"
+      name: "next"
+      url: "/upcoming/"
+      weight: 2
     - identifier: "about"
       name: "Über"
       url: "/about/"
-      weight: 2
+      weight: 3
 
 caches:
   images:
