@@ -22,7 +22,7 @@ menu:
   main:
     - identifier: "projects"
       name: "Projekte"
-      url: "/"
+      url: "/projects/"
       weight: 1
     - identifier: "about"
       name: "Über"

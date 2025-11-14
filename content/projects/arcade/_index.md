@@ -5,6 +5,7 @@ date: 2024-07-30
 title: 'Arcade Machine'
 hideImage: false
 image: "thumbnail.jpg"
+showInList: true   # custom param
 ---
 
 ![Projektbeschreibung](thumbnail.jpg)
