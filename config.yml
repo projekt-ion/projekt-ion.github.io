@@ -1,4 +1,6 @@
 baseURL: "https://project-ion.github.io"
+relativeURLs: true
+canonifyURLs: false
 title: "Projekt Ion"
 theme: "papermod"
 
