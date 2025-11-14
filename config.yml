@@ -1,0 +1,28 @@
+baseURL: "https://project-ion.github.io"
+title: "Projekt Ion"
+theme: "papermod"
+
+params:
+  description: "Eine einfache Hugo-Seite"
+  showLanguageSwitcher: false
+  homeInfoParams: false
+  ShowReadingTime: false
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: false
+  mainSections:
+    - "projects"
+  ShowPostThumbnail: true
+  assets:
+    css:
+      - "css/extended/projects.css"
+
+menu:
+  main:
+    - identifier: "projects"
+      name: "Projekte"
+      url: "/"
+      weight: 1
+    - identifier: "about"
+      name: "Über"
+      url: "/about/"
+      weight: 2

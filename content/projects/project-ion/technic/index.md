@@ -1,5 +1,6 @@
 ---
 title: 'Projekt Ion Technik'
+hidden: true
 ---
 
 

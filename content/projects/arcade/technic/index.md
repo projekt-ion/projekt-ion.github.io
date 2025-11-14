@@ -1,6 +1,9 @@
 ---
 title: 'Arcade Machine Technik'
-
+type: 'hidden'
+hidden: true
+hiddenInSectionList: true
+hiddenInMenu: true
 ---
 
 
